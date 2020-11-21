@@ -108,7 +108,7 @@ section {
     align-items: center;
     justify-content: center;
     font-size: 1rem;
-    background-image: url(https://1drv.ms/u/s!Anfp-Vw0QlsBfKx5JMW99_8MUcg?e=bsR9wp);
+    /*background-image: url(https://1drv.ms/u/s!Anfp-Vw0QlsBfKx5JMW99_8MUcg?e=bsR9wp);*/
     background-color: cover;
     scroll-snap-align: center;
 }
@@ -126,7 +126,7 @@ section h2 {
     font-family: tahoma;
 }
 
-section:nth-child(2) {
+/*section:nth-child(2) {
     background-image: url(https://1drv.ms/u/s!Anfp-Vw0QlsBfKx5JMW99_8MUcg?e=bsR9wp);
 }
 
@@ -136,8 +136,4 @@ section:nth-child(3) {
 
 section:nth-child(4) {
     background-image: url(https://1drv.ms/u/s!Anfp-Vw0QlsBfKx5JMW99_8MUcg?e=bsR9wp);
-}
-
-section:nth-child(5) {
-    background-image: url(https://1drv.ms/u/s!Anfp-Vw0QlsBfKx5JMW99_8MUcg?e=bsR9wp);
-}
+}*/
